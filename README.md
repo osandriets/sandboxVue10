@@ -19,3 +19,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 "# sandboxVue10"
 
 https://osandriets.github.io/sandboxVue9/
+
+Official Docs - Slots: http://vuejs.org/guide/components.html#Content-Distribution-with-Slots
+Official Docs - Dynamic Components: http://vuejs.org/guide/components.html#Dynamic-Components
+Official Docs - Misc: http://vuejs.org/guide/components.html#Misc
