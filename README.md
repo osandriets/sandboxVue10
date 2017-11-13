@@ -16,7 +16,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-"# sandboxVue10"
+"# sandboxVue9"
 
 https://osandriets.github.io/sandboxVue9/
 
